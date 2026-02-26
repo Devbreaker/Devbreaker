@@ -5,7 +5,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Providence+%E2%80%94+Divine+Favor+Guides+the+Builder;Platform+Group+Lead+%7C+11%2B+Years+in+the+Field;TypeScript+%C2%B7+Go+%C2%B7+Python+%7C+Sensor+to+Dashboard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Providence+%7C+Platform+Group+Lead;Platform+Group+Lead+%7C+11%2B+Years+in+the+Field;TypeScript+%C2%B7+Go+%C2%B7+Python+%7C+Sensor+to+Dashboard" alt="Typing SVG" />
 </a>
 
 </div>
@@ -19,7 +19,7 @@
 ```typescript
 const providence = {
   name: "Hyunseok Yoon",
-  alias: "Providence — divine favor guides the builder",
+  alias: "Providence",
   role: "Platform Group Lead",
   experience: "11+ years",
   stack: {
@@ -90,36 +90,6 @@ const providence = {
 | ⚡ **Smart Factory** | Predictive maintenance, anomaly detection, energy management |
 
 </div>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devbreaker&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-#### *Providence*
-*Watches over those who build with purpose.*
 
 <br/>
 
